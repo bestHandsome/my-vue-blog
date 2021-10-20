@@ -20,9 +20,9 @@ export default {
   auth,
   log,
   mongodb: {
-    username: "root",
-    pwd: '!Yyds199421',
+    username: "jinjin",
+    pwd: '123456',
     address: "101.200.179.26:27017",
-    db: "admin",
+    db: "blog",
   },
 };

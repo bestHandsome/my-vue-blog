@@ -8,10 +8,10 @@
       <img class="img-bg" src="@/assets/bg4.jpg" />
     </div>
     <div class="my-body">
-      <div class="my-name">wall | 苏s哈</div>
+      <div class="my-name">handsome | 津津</div>
       <div class="my-job">Web前端工程师</div>
       <div class="my-desc">
-        一个热爱篮球与前端技术的95后！20年入行，
+        一个热爱篮球、游戏与前端技术的94后！17年入行，
         一直潜心研究web前端技术，一边工作一边积累经验，分享一些自己整理的笔记和优选文章。
       </div>
     </div>
@@ -20,14 +20,12 @@
       前后端完全分离模式来搭建，具体的技术栈可在 GitHub 上了解。后续可能会用
       React 来重构一版，敬请期待！！！🌟🌟🌟
       <br />
-      + 本博客已开源，源码已上传到
-      GitHub。如果觉得该博客对你学习有帮助的，请能给博主点个 Star。
-      如果有不清楚的地方，欢迎邮箱来信交流。感谢各位国家栋梁的支持！！！🙏🙏🙏
+      
       <br />
       + Github地址：<a
-        href="https://github.com/Sujb-sus/vue3-vite2-ts-blog-h5"
+        href="https://github.com/bestHandsome/my-vue-blog"
         target="_blank"
-        >https://github.com/Sujb-sus/vue3-vite2-ts-blog-h5</a
+        >https://github.com/bestHandsome/my-vue-blog</a
       >
     </div>
   </div>
